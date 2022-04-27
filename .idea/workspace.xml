@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="FILTER_RESOLVED_ITEMS" value="false" />
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b4137ef-e2a6-42f3-b629-f7dad3d98f5f" name="Changes" comment="added redirects as per the excel sheet request">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backstore-menu-buttons.json" beforeDir="false" afterPath="$PROJECT_DIR$/backstore-menu-buttons.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backstore/addorder.php" beforeDir="false" afterPath="$PROJECT_DIR$/backstore/addorder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-menu-buttons.json.php" beforeDir="false" afterPath="$PROJECT_DIR$/front-menu-buttons.json.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productCopy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/productCopy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products.xml" beforeDir="false" afterPath="$PROJECT_DIR$/products.xml" afterDir="false" />
+    </list>
+    <list id="641c35db-3e24-4a1c-9f97-648dee57ae83" name="Changes by AUGUSTO" comment="" />
+    <list id="7c05e4b0-7628-4955-97af-dce996175b3f" name="Changes by jeasa" comment="" />
+    <list id="2370efca-f1a4-42f0-9416-7bd1d2d2ce4c" name="Changes by jesse" comment="" />
+    <list id="3994096c-43de-453e-bcb6-1121515338d0" name="Changes by mika2" comment="Changes by mika2" />
+    <list id="877c4957-5940-4487-8e37-39b35cba32fb" name="Changes by mika24" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="31737281-d9fd-480d-be73-4bde94ac571c" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server id="b00ee389-6ad4-407b-b805-8a9e2b9df40e" name="Unnamed" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\Users\jeasa\Documents\GitHub\SOEN287_Grocery" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="15" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="24QmpVQUE7Ixqc5I0U2bbmn8cEJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\Dev\Web\Online-Grocery_Web-Programming" />
+      <recent name="C:\Users\mika2\Documents\GitHub\Online-Grocery_Web-Programming\backstore" />
+      <recent name="C:\Users\jeasa\Documents\GitHub\SOEN287_Grocery\Assets\Fruits" />
+      <recent name="C:\Users\jeasa\Documents\GitHub\SOEN287_Grocery" />
+      <recent name="C:\Users\mika2\Documents\GitHub\SOEN287_Grocery" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jeasa\Documents\GitHub\SOEN287_Grocery\Assets\Fruits" />
+      <recent name="$PROJECT_DIR$/Assets" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\mika2\Documents\GitHub\SOEN287_Grocery\backstore" />
+      <recent name="C:\Users\jeasa\Documents\GitHub\SOEN287_Grocery" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.cart.php">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SOEN287_Grocery/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="cart.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/cart.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="orderlist.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/backstore/orderlist.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="removeproduct.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/backstore/removeproduct.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.php" />
+      <item itemvalue="PHP Script.cart.php" />
+      <item itemvalue="PHP Script.orderlist.php" />
+      <item itemvalue="PHP Script.removeproduct.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.orderlist.php" />
+        <item itemvalue="PHP Script.removeproduct.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b4137ef-e2a6-42f3-b629-f7dad3d98f5f" name="Changes" comment="" />
+      <created>1643571368450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643571368450</updated>
+      <workItem from="1643571370507" duration="1597000" />
+      <workItem from="1643574776151" duration="110000" />
+      <workItem from="1643574921597" duration="32000" />
+      <workItem from="1643577784564" duration="1332000" />
+      <workItem from="1643645466421" duration="25000" />
+      <workItem from="1643667021486" duration="5440000" />
+      <workItem from="1643678895161" duration="12988000" />
+      <workItem from="1643745586758" duration="8986000" />
+      <workItem from="1643912881116" duration="9837000" />
+      <workItem from="1644018271466" duration="12324000" />
+      <workItem from="1644074722150" duration="5471000" />
+      <workItem from="1644080647844" duration="393000" />
+      <workItem from="1644094851009" duration="8001000" />
+      <workItem from="1644105927775" duration="79000" />
+      <workItem from="1644713012290" duration="11769000" />
+      <workItem from="1644771034553" duration="14877000" />
+      <workItem from="1644813997274" duration="5388000" />
+      <workItem from="1644820481968" duration="113000" />
+      <workItem from="1644902108573" duration="943000" />
+      <workItem from="1644903347995" duration="1000000" />
+      <workItem from="1645288488620" duration="27667000" />
+      <workItem from="1645377320489" duration="8008000" />
+      <workItem from="1645394361702" duration="29732000" />
+      <workItem from="1645660816735" duration="3000" />
+      <workItem from="1645831424441" duration="5092000" />
+      <workItem from="1645902363947" duration="7079000" />
+      <workItem from="1647363420550" duration="20726000" />
+      <workItem from="1647437704444" duration="7348000" />
+      <workItem from="1647698115266" duration="2413000" />
+      <workItem from="1647723080561" duration="10000" />
+      <workItem from="1647723964770" duration="32596000" />
+      <workItem from="1648079886529" duration="7809000" />
+      <workItem from="1648126992290" duration="4889000" />
+      <workItem from="1648310926603" duration="2978000" />
+      <workItem from="1648569610032" duration="12501000" />
+      <workItem from="1649519889264" duration="20633000" />
+      <workItem from="1649688780034" duration="22616000" />
+      <workItem from="1649779952351" duration="20936000" />
+      <workItem from="1649803337325" duration="3886000" />
+      <workItem from="1650037215806" duration="5147000" />
+      <workItem from="1650053272765" duration="11967000" />
+      <workItem from="1650065347555" duration="12631000" />
+      <workItem from="1650079557597" duration="668000" />
+      <workItem from="1650136684786" duration="1529000" />
+      <workItem from="1650169777217" duration="1776000" />
+      <workItem from="1650171579694" duration="6363000" />
+      <workItem from="1650178010920" duration="2000" />
+      <workItem from="1650178107964" duration="5000" />
+      <workItem from="1650178308997" duration="17000" />
+      <workItem from="1650248756643" duration="4269000" />
+      <workItem from="1650291239116" duration="9425000" />
+      <workItem from="1650307036272" duration="10240000" />
+      <workItem from="1650317814606" duration="2349000" />
+      <workItem from="1650320633427" duration="374000" />
+      <workItem from="1650335137104" duration="2518000" />
+      <workItem from="1650843603649" duration="3079000" />
+    </task>
+    <task id="LOCAL-00001" summary="Put everything back in root folder">
+      <created>1643574808848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643574808848</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Testing the automatic website deploy">
+      <created>1643577887099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643577887099</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Testing again">
+      <created>1643578524786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643578524786</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changes&#10;Added separate div for header separation and removed the class from the first divs.&#10;&#10;Additions:&#10;userlist.css, userlist.html.&#10;&#10;Worked on the user table, with add and edit buttons. (menu is scrollable when there is multiple users).">
+      <created>1645290312231</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645290312231</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes&#10;Modified Grid-gap for a.items to 0.5em for phone compatibility&#10;&#10;Changed the table layout to be more in line with the global style&#10;&#10;Added edituser.html (Exact same layout as editproduct.html)">
+      <created>1645303681457</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645303681457</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed some stuff&#10;&#10;Added Order list page">
+      <created>1645309711248</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645309711248</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Cried a little while doing this, &#10;&#10;Added more things and fixed the menu layout to be more in line with the rest (css files still to fix)">
+      <created>1645377658037</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645377658037</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Rearranged the css files to so that : navbar.css only has the basic menu template. The backtemplate.css and template.css have further customization of buttons.">
+      <created>1645385487172</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645385487172</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added responsive CSS for backstore product&#10;&#10;fixed some menus">
+      <created>1645404325154</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645404325154</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixed some stuff">
+      <created>1645489308693</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1645489308693</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Finalized dynamic cart and persistent values,&#10;&#10;bugs should be ironed out but could still be there">
+      <created>1647445127614</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1647445127614</updated>
+    </task>
+    <task id="LOCAL-00012" summary="-Added the ability to delete items from cart. &#10;-Add to cart buttons no longer refresh the page everytime clicked (Works as intended now.)&#10;-Remove from cart button no longer refresh the page (Works as intended now)&#10;-cleaned up productactions.js &#10;&#10;&#10;-Removed productactions.js link from cart.html">
+      <created>1647528069395</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1647528069395</updated>
+    </task>
+    <task id="LOCAL-00013" summary="-Removed cart.json">
+      <created>1647528681013</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1647528681013</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fixed Input outline not working properly with Firefox and Safari.&#10;&#10;Fixed step mismatch when using cart,&#10;&#10;fixed elements clipping with eachother in cart">
+      <created>1648054008812</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1648054008812</updated>
+    </task>
+    <task id="LOCAL-00015" summary="-Completely redesigned how aisle/products are fetched (now loaded dynamically. &#10;&#10;BIG TODO, export images to external storage as they use more than 10% of our provider's RAM">
+      <created>1648131164848</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1648131164849</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Major changes: &#10;Cart is now entirely handled with js/php with some AjAX,&#10;&#10;the link to the cart hasn't been updated yet and I'm trying to fix a major issue in terms of performance.">
+      <created>1649542486045</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1649542486046</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Additions:&#10;- Ability to remove items from cart (in php)&#10;- Changed the link for the cart so it now links properly in the menu">
+      <created>1649690993376</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1649690993376</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Fixed broken links">
+      <created>1649780633893</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1649780633893</updated>
+    </task>
+    <task id="LOCAL-00019" summary="backstore stuff">
+      <created>1649817995689</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1649817995689</updated>
+    </task>
+    <task id="LOCAL-00020" summary="test fix">
+      <created>1649819290326</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1649819290326</updated>
+    </task>
+    <task id="LOCAL-00021" summary="removed getName in productlist.php due to incompatibility with digitalocean">
+      <created>1649819612463</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1649819612463</updated>
+    </task>
+    <task id="LOCAL-00022" summary="I hope this is the right one!">
+      <created>1649819926894</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1649819926894</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Changes by mika2">
+      <created>1649820368287</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1649820368287</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Changed the image handling back to regular,&#10;&#10;started userlist,&#10;fixed some bugs in authentication system,&#10;users can now be removed from the site">
+      <created>1649872658269</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1649872658269</updated>
+    </task>
+    <task id="LOCAL-00025" summary="fixed some stuff">
+      <created>1649876381787</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1649876381787</updated>
+    </task>
+    <task id="LOCAL-00026" summary="fixed more stuff maybe?">
+      <created>1649877021143</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1649877021143</updated>
+    </task>
+    <task id="LOCAL-00027" summary="testing composer compatibility">
+      <created>1649957979408</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1649957979408</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added more backstore functionalities, &#10;&#10;fixed major auth bugs and more!">
+      <created>1649976393172</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1649976393172</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Changes by mika24 added on top of jeasa's commit">
+      <created>1649976417261</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1649976417261</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Fixed not being able to change image in edit products">
+      <created>1649982221621</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1649982221621</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Fixed major security flaw in auth">
+      <created>1649986033661</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1649986033661</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Removed unused libraries. Will revert to old push if this does not work.">
+      <created>1650140124518</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1650140124518</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Finalized login and user handling, fixed a few bugs. Cart works properly but does not have a &quot;Purchase&quot; button letting users creating their orders as it has been decided to scrap this idea for now!">
+      <created>1650227659773</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1650227659773</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+    <MESSAGE value="-Added the ability to delete items from cart. &#10;-Add to cart buttons no longer refresh the page everytime clicked (Works as intended now.)&#10;-Remove from cart button no longer refresh the page (Works as intended now)" />
+    <MESSAGE value="-Added the ability to delete items from cart. &#10;-Add to cart buttons no longer refresh the page everytime clicked (Works as intended now.)&#10;-Remove from cart button no longer refresh the page (Works as intended now)&#10;-cleaned up productactions.js &#10;&#10;&#10;-Removed productactions.js link from cart.html" />
+    <MESSAGE value="-Removed cart.json" />
+    <MESSAGE value="Fixed Input outline not working properly with Firefox and Safari.&#10;&#10;Fixed step mismatch when using cart,&#10;&#10;fixed elements clipping with eachother in cart" />
+    <MESSAGE value="-Completely redesigned how aisle/products are fetched (now loaded dynamically. &#10;&#10;BIG TODO, export images to external storage as they use more than 10% of our provider's RAM" />
+    <MESSAGE value="Major changes: &#10;Cart is now entirely handled with js/php with some AjAX,&#10;&#10;the link to the cart hasn't been updated yet and I'm trying to fix a major issue in terms of performance." />
+    <MESSAGE value="Additions:&#10;- Ability to remove items from cart (in php)&#10;- Changed the link for the cart so it now links properly in the menu" />
+    <MESSAGE value="moved all images to digitalocean space (Changed all the links to function properly as well),&#10;Started development of image upload to digitalocean spaces&#10;Fixed some small bugs here and there" />
+    <MESSAGE value="moved all images to digitalocean space (Changed all the links to function properly as well),&#10;&#10;&#10;Started development of image upload to digitalocean spaces&#10;Fixed some small bugs here and there&#10;**BIG NOTE, I had to add the amazon AWS library to our code in so we can use the API to upload images." />
+    <MESSAGE value="Fixed broken links" />
+    <MESSAGE value="backstore stuff" />
+    <MESSAGE value="test fix" />
+    <MESSAGE value="removed getName in productlist.php due to incompatibility with digitalocean" />
+    <MESSAGE value="I hope this is the right one!" />
+    <MESSAGE value="Changes by mika2" />
+    <MESSAGE value="Changed the image handling back to regular,&#10;&#10;started userlist,&#10;fixed some bugs in authentication system,&#10;users can now be removed from the site" />
+    <MESSAGE value="fixed some stuff" />
+    <MESSAGE value="fixed more stuff maybe?" />
+    <MESSAGE value="testing composer compatibility" />
+    <MESSAGE value="Added more backstore functionalities, &#10;&#10;fixed major auth bugs and more!" />
+    <MESSAGE value="Changes by mika24 added on top of jeasa's commit" />
+    <MESSAGE value="Fixed not being able to change image in edit products" />
+    <MESSAGE value="Fixed major security flaw in auth" />
+    <MESSAGE value="Removed unused libraries. Will revert to old push if this does not work." />
+    <MESSAGE value="Finalized login and user handling, fixed a few bugs. Cart works properly but does not have a &quot;Purchase&quot; button letting users creating their orders as it has been decided to scrap this idea for now!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalized login and user handling, fixed a few bugs. Cart works properly but does not have a &quot;Purchase&quot; button letting users creating their orders as it has been decided to scrap this idea for now!" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
