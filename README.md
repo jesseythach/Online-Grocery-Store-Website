@@ -1,22 +1,10 @@
 # Online-Grocery_Web-Programming
- <h3>SOEN 287 Project Repository</h3>
-
-<h5>Project Summary</h5>
+Project Summary
+---------
 The purpose of this project was to get familiar with HTML, CSS, Javascript and PHP by creating a dynamic grocery store website.
 
 
-
-<h3>Administrator credentials to access the backstore</h3>
-Username: admin</br>
-Password: admin
-
-
-<h3>Website links</h3>
-https://green-tree-groceries.systems/</br>
-https://backup.green-tree-groceries.systems/
-
-
-_____________________FRONTSTORE_____________________
+<h1>FRONTSTORE</h1>
 
 Home Page
 ---------
@@ -34,7 +22,8 @@ Shopping Cart
 -------------
 To access the shopping cart, the user can cick on the icon in the right top corner. There are set some examples of products that were added to the cart, and the quantity of each one of them can be changed with buttons. A small icon of a garbage can would be the button to remove a product from the shopping cart. On the right side of the page, the user can see a summary of all the products in his shopping cart as well as the total price he would have to pay. The buttons "CONTINUE SHOPPING", "CHECK OUT", and the one for the donation (Covid-19 cause) are pretty much self-explanatory.
 
-_____________________BACKSTORE_____________________
+
+<h1>BACKSTORE</h1>
 
 Product List
 ------------
@@ -48,5 +37,16 @@ User List
 ---------
 The user list allows the user to see all the accounts created by customers, and buttons "Edit" and "Delete" will give some control over the list later. The "Add User" button, on the other hand is linked to a page which would allow to enter all necessary information to create a new account. 
 
-_____________________TEAM DESCRIPTION_____________________
+
+<h3>Administrator credentials to access the backstore</h3>
+Username: admin</br>
+Password: admin
+
+<h3>Website links</h3>
+https://green-tree-groceries.systems/</br>
+https://backup.green-tree-groceries.systems/
+
+
+Team Members
+------------
 Made by Michaël Gugliandolo, Jean-Nicolas Sabatini & Jessey Thach.
