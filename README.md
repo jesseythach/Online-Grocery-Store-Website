@@ -1,7 +1,8 @@
 # Online-Grocery-Store-Website
-Project Summary
----------
+<h1>Project Summary</h1>
 The purpose of this project was to get familiar with HTML, CSS, Javascript and PHP by creating a dynamic grocery store website.
+
+<hr>
 
 <h1>Frontstore</h1>
 <h2>Home Page</h2>
