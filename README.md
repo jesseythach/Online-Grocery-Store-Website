@@ -1,17 +1,22 @@
-# Online Grocery Store Website
+# Online-Grocery_Web-Programming
+ <h3>SOEN 287 Project Repository</h3>
 
-SOEN 287 Project Repository
 Made by:
 
-Michaël Gugliandolo
+Michaël Gugliandolo 40213419
 
-Jean-Nicolas Sabatini 
+Jean-Nicolas Sabatini 40207926
 
-Jessey Thach
+Jessey Thach 40210440
 
-Administrator credentials to access the backstore
-Username: admin
+
+<h3>Administrator credentials to access the backstore</h3>
+Username: admin</br>
 Password: admin
-Website links
-https://green-tree-groceries.systems/
+
+
+<h3>Website links</h3>
+https://green-tree-groceries.systems/</br>
 https://backup.green-tree-groceries.systems/
+
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+    <user>
+        <uid>983264</uid>
+        <email>TbWbQ0W2onlGSqjl6+5sZZkmttHj+BgCnQXRRz6HXA==</email>
+        <password>+a4zjAee91nPKIw/m+txJRdvWfum</password>
+        <admin>true</admin>
+        <username>t+Zhsm1ZuVp2PqaPYuvyzklML3jd</username>
+    </user>
+
+    <user>
+        <uid>857249</uid>
+        <email>h1N2gkT3V1VhGV9vQJlL312AWtK0GIf9KC65OA9QQgCxOg==</email>
+        <password>fgMVo4KYzANlvDRtD1C8fQ==</password>
+        <admin>false</admin>
+        <username>ANiJzJSo+vrJatcze5Up1y5TOlM=</username>
+    </user>
+    <user>
+        <uid>621065</uid>
+        <email>prezFpfBWT3mA5S6bwoJZRKnq32VLlUPY7w98P+YmBgAHzpgAw==</email>
+        <password>mR7JVzYAeot/53ra+5EovA==</password>
+        <admin>false</admin>
+        <username>DnE5cn51CYbM0emGDvDPqm6s+QQCoWXsORJQpVU=</username>
+    </user>
+    <user>
+        <uid>402479</uid>
+        <email>I3UGlZiIvpPUomPQXOzsQm7SS61Tqs9HvRTrTIWL</email>
+        <password>kKGilyRpR0/JOBRJqON65Q==</password>
+        <admin>false</admin>
+        <username>Dvptwkvia5r5Or4fgZb7cuzqZLfijOY=</username>
+    </user>
+    <user>
+        <uid>526604</uid>
+        <email>hsDtm6IjPaCfDVkLeQkyisfmCP04qYrwJtEt1CSrBjbRi/QEJg==</email>
+        <password>W+MoOGLkG5SZfCyV5ZZg/kI0304KtA==</password>
+        <admin>false</admin>
+        <username>eE8L4CrZjdbRsxDh9+cB4qnxU1/syoWz3LO3</username>
+    </user>
+</users>

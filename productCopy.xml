@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<Root>
+<Aisle>Fruits</Aisle>
+<Aisle>Vegetables</Aisle>
+<Aisle>Sodas</Aisle>
+<Aisle>Meats</Aisle>
+<Aisle>Fish</Aisle>
+<Aisle>Junk Food</Aisle>
+<Aisle>Dairy</Aisle>
+<Item>
+<Id>1</Id>
+<Name>Blueberries</Name>
+<Aisle>Fruits</Aisle>
+<Big_Description>They are delicate and perfect to make jams!</Big_Description>
+<Small_Description>Squish</Small_Description>
+<Price>0.50</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/1.png</Image_Link>
+</Item>
+<Item>
+<Id>2</Id>
+<Name>Grapes</Name>
+<Aisle>Fruits</Aisle>
+<Big_Description>The best fruit to share with your friends.</Big_Description>
+<Small_Description>Not raisins.</Small_Description>
+<Price>2.00</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/2.png</Image_Link>
+</Item>
+<Item>
+<Id>4</Id>
+<Name>Mango</Name>
+<Aisle>Fruits</Aisle>
+<Big_Description>MANGOOOSS!!! We sell this deliciously exotic fruit!</Big_Description>
+<Small_Description>Price varies with seasons.</Small_Description>
+<Price>4.00</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/4.png</Image_Link>
+</Item>
+<Item>
+<Id>5</Id>
+<Name>Pear</Name>
+<Aisle>Fruits</Aisle>
+<Big_Description>This is a juicy fruit!</Big_Description>
+<Small_Description>Fresh batch just came in!</Small_Description>
+<Price>1.50</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/5.png</Image_Link>
+</Item>
+<Item>
+<Id>6</Id>
+<Name>Strawberries</Name>
+<Aisle>Fruits</Aisle>
+<Big_Description>Our strawberries are imported from Mexico.</Big_Description>
+<Small_Description>They're a perfect snack during summer!</Small_Description>
+<Price>0.50</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/6.png</Image_Link>
+</Item>
+<Item>
+<Id>7</Id>
+<Name>Orange</Name>
+<Aisle>Fruits</Aisle>
+<Big_Description>'Orange' the fruit came before 'orange' the color!</Big_Description>
+<Small_Description>Who peels them with their hands?</Small_Description>
+<Price>1.50</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/7.png</Image_Link>
+</Item>
+<Item>
+<Id>8</Id>
+<Name>Kiwi</Name>
+<Aisle>Fruits</Aisle>
+<Big_Description>Another one of our exotic fruits! Limited stock, buy quickly!</Big_Description>
+<Small_Description>Kiwis contain about as much potassium as bananas and a high amount of vitamin C, more than
+oranges.
+No way!
+</Small_Description>
+<Price>2.50</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/8.png</Image_Link>
+</Item>
+<Item>
+<Id>9</Id>
+<Name>Celery</Name>
+<Aisle>Vegetables</Aisle>
+<Big_Description>This is an amazing vegetable!</Big_Description>
+<Small_Description>It's green and crispy. It's from Cambodia.
+<h6>I think.</h6>
+</Small_Description>
+<Price>1.00</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/9.png</Image_Link>
+</Item>
+<Item>
+<Id>10</Id>
+<Name>Cucumber</Name>
+<Aisle>Vegetables</Aisle>
+<Big_Description>This is another amazing vegetable!</Big_Description>
+<Small_Description>It's green and hard. It's not from Cambodia.</Small_Description>
+<Price>2.00</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/10.png</Image_Link>
+</Item>
+<Item>
+<Id>11</Id>
+<Name>Green Pepper</Name>
+<Aisle>Vegetables</Aisle>
+<Big_Description>Did you know that green peppers are younger than red peppers, which is why they cost less?
+</Big_Description>
+<Small_Description>You probably knew that already.</Small_Description>
+<Price>1.50</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/11.png</Image_Link>
+</Item>
+<Item>
+<Id>12</Id>
+<Name>Peas</Name>
+<Aisle>Vegetables</Aisle>
+<Big_Description>Hand-picked from the mysterious depths of Tuvalu.</Big_Description>
+<Small_Description>Plants vs Zombies!</Small_Description>
+<Price>0.50</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/12.png</Image_Link>
+</Item>
+<Item>
+<Id>13</Id>
+<Name>Carrot</Name>
+<Aisle>Vegetables</Aisle>
+<Big_Description>Carrots can be eaten raw, steamed, boiled, roasted, or as an ingredient in soups and stews.
+</Big_Description>
+<Small_Description>They come in a group of 5-7 carrots.</Small_Description>
+<Price>1.00</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/13.png</Image_Link>
+</Item>
+<Item>
+<Id>14</Id>
+<Name>Yellow Pepper</Name>
+<Aisle>Vegetables</Aisle>
+<Big_Description>You probably shouldn't use this as a warning sign.</Big_Description>
+<Small_Description>Use appropriate signage when dealing with safety.</Small_Description>
+<Price>1.60</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/14.png</Image_Link>
+</Item>
+<Item>
+<Id>15</Id>
+<Name>Red Pepper</Name>
+<Aisle>Vegetables</Aisle>
+<Big_Description>Red bell peppers have more than twice the vitamin C of a green pepper.</Big_Description>
+<Small_Description>Nutritious!</Small_Description>
+<Price>1.70</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/15.png</Image_Link>
+</Item>
+<Item>
+<Id>16</Id>
+<Name>Romaine Lettuce</Name>
+<Aisle>Vegetables</Aisle>
+<Big_Description>Fresh and crunchy lettuce</Big_Description>
+<Small_Description>It's from the United States.</Small_Description>
+<Price>1.50</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/16.png</Image_Link>
+</Item>
+<Item>
+<Id>3</Id>
+<Name>Apple</Name>
+<Aisle>Fruits</Aisle>
+<Big_Description>This is a delicious fruit!</Big_Description>
+<Small_Description>We only sell Granny Smith apples unfortunately.</Small_Description>
+<Price>1.50</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/3.png</Image_Link>
+</Item>
+<Item>
+<Id>17</Id>
+<Name>Coca-Coli</Name>
+<Aisle>Sodas</Aisle>
+<Big_Description>Refreshing beverage</Big_Description>
+<Small_Description>Not Coca-Cola</Small_Description>
+<Price>3.00</Price>
+<Amount>100</Amount>
+<Image_Link>/Assets/Items/17.png</Image_Link>
+</Item>
+<Item>
+<Id>18</Id>
+<Name>Pepsica</Name>
+<Aisle>Sodas</Aisle>
+<Big_Description>Better when shaken</Big_Description>
+<Small_Description>*covered in pepsica now*</Small_Description>
+<Price>2.99</Price>
+<Amount>101</Amount>
+<Image_Link>/Assets/Items/18.png</Image_Link>
+</Item>
+<Item>
+<Id>19</Id>
+<Name>Chick-filay</Name>
+<Aisle>Meats</Aisle>
+<Big_Description>We can ship it live.</Big_Description>
+<Small_Description>Oh no wait</Small_Description>
+<Price>10.00</Price>
+<Amount>1</Amount>
+<Image_Link>/Assets/Items/19.png</Image_Link>
+</Item>
+<Item>
+<Id>20</Id>
+<Name>Cow</Name>
+<Aisle>Meats</Aisle>
+<Big_Description>Full cow, including methane</Big_Description>
+<Small_Description>Prout</Small_Description>
+<Price>5469.00</Price>
+<Amount>6</Amount>
+<Image_Link>/Assets/Items/20.png</Image_Link>
+</Item>
+<Item>
+<Id>21</Id>
+<Name>Big Sardine</Name>
+<Aisle>Fish</Aisle>
+<Big_Description>Sardines range in length from 15 to 30 cm and live in dense schools.</Big_Description>
+<Small_Description>They're educated &#x1F609;</Small_Description>
+<Price>0.24</Price>
+<Amount>76000</Amount>
+<Image_Link>/Assets/Items/21.png</Image_Link>
+</Item>
+<Item>
+<Id>22</Id>
+<Name>Dotted Fish</Name>
+<Aisle>Fish</Aisle>
+<Big_Description>Dots, dots, dots, dots, ...</Big_Description>
+<Small_Description>Dots, dots, dots, ...</Small_Description>
+<Price>4.20</Price>
+<Amount>17</Amount>
+<Image_Link>/Assets/Items/22.png</Image_Link>
+</Item>
+<Item>
+<Id>23</Id>
+<Name>Yogurt</Name>
+<Aisle>Dairy</Aisle>
+<Big_Description>Solid milk.</Big_Description>
+<Small_Description>Slightly clumpy?</Small_Description>
+<Price>2.69</Price>
+<Amount>32</Amount>
+<Image_Link>/Assets/Items/23.png</Image_Link>
+</Item>
+<Item>
+<Id>24</Id>
+<Name>Almond Milk</Name>
+<Aisle>Dairy</Aisle>
+<Big_Description>Theoretically not dairy</Big_Description>
+<Small_Description>SOMEONE MILKED ALMONDS &#x1F92F;</Small_Description>
+<Price>3.99</Price>
+<Amount>10</Amount>
+<Image_Link>/Assets/Items/24.png</Image_Link>
+</Item>
+<Item>
+<Id>25</Id>
+<Name>Fries</Name>
+<Aisle>Junk Food</Aisle>
+<Big_Description>Crispy, long, delicious.</Big_Description>
+<Small_Description>Seasoning not included</Small_Description>
+<Price>0.03</Price>
+<Amount>3500000</Amount>
+<Image_Link>/Assets/Items/25.png</Image_Link>
+</Item>
+<Item>
+<Id>26</Id>
+<Name>Fried Chicken</Name>
+<Aisle>Junk Food</Aisle>
+<Big_Description>Golden chicken</Big_Description>
+<Small_Description>Actual gold plating (just very thin)</Small_Description>
+<Price>11.50</Price>
+<Amount>75</Amount>
+<Image_Link>/Assets/Items/26.png</Image_Link>
+</Item>
+<Item>
+<Id>27</Id>
+<Name>1% Microfiltered Milk</Name>
+<Aisle>Dairy</Aisle>
+<Big_Description>Microfiltered milk is strained using a microscopic filter, which eliminates up to 99.9% of impurities,
+resulting in a refreshingly creamy finished product.
+</Big_Description>
+<Small_Description>Milk makes your bones strong.</Small_Description>
+<Price>2.00</Price>
+<Amount>46</Amount>
+<Image_Link>/Assets/Items/27.png</Image_Link>
+</Item>
+<Item>
+<Id>28</Id>
+<Name>PepsiCoca</Name>
+<Aisle>Sodas</Aisle>
+<Big_Description>Don't want one? Take both!</Big_Description>
+<Small_Description>The magical taste of both!</Small_Description>
+<Price>420.00</Price>
+<Amount>404</Amount>
+<Image_Link>/Assets/Items/28.png</Image_Link>
+</Item>
+</Root>

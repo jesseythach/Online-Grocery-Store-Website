@@ -1,0 +1,29 @@
+{
+  "name": "online-grocery_web-programming",
+  "version": "1.0.0",
+  "description": "SOEN 287 project repository",
+  "main": "backstore_menu.js",
+  "dependencies": {
+    "autoprefixer": "^10.4.4",
+    "cssnano": "^5.1.7"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.12",
+    "postcss-cli": "^9.1.0"
+  },
+  "scripts": {
+    "minify": "npx postcss css/main.css --use autoprefixer cssnano -o css/main.minified.css -m",
+    "prefix": "npx postcss css/main.css --use autoprefixer -o css/main.prefixedv2.css -m",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfie7679/Online-Grocery_Web-Programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolfie7679/Online-Grocery_Web-Programming/issues"
+  },
+  "homepage": "https://github.com/wolfie7679/Online-Grocery_Web-Programming#readme"
+}

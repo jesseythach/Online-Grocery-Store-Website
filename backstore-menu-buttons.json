@@ -1,0 +1,18 @@
+{
+  "home": {
+    "name": "Home",
+    "linkUrl": "./index.php"
+  },
+  "backstore": {
+    "name": "Backstore",
+    "linkUrl": "./backstore/productlist.php"
+  },
+  "users": {
+    "name": "Users",
+    "linkUrl": "./backstore/userlist.php"
+  },
+  "orders": {
+    "name": "Orders",
+    "linkUrl": "./backstore/orderlist.php"
+  }
+}
