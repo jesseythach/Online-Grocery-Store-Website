@@ -1,8 +1,7 @@
-# Online-Grocery_Web-Programming
+# Online-Grocery-Store-Website
 Project Summary
 ---------
 The purpose of this project was to get familiar with HTML, CSS, Javascript and PHP by creating a dynamic grocery store website.
-
 
 <h1>Frontstore</h1>
 <h2>Home Page</h2>
@@ -17,6 +16,7 @@ In the navigation bar, there is a section that says "Account" which has two link
 <h2>Shopping Cart</h2>
 To access the shopping cart, the user can cick on the icon in the right top corner. There are set some examples of products that were added to the cart, and the quantity of each one of them can be changed with buttons. A small icon of a garbage can would be the button to remove a product from the shopping cart. On the right side of the page, the user can see a summary of all the products in his shopping cart as well as the total price he would have to pay. The buttons "CONTINUE SHOPPING", "CHECK OUT", and the one for the donation (Covid-19 cause) are pretty much self-explanatory.
 
+<hr>
 
 <b><h1>Backstore</h1></b>
 <h2>Product List</h2>
@@ -30,11 +30,11 @@ The user list allows the user to see all the accounts created by customers, and 
 
 <hr>
 
-<h3>Administrator credentials to access the backstore</h3>
+<h2>Administrator credentials to access the backstore</h2>
 Username: admin</br>
 Password: admin
 
-<h3>Website links</h3>
+<h2>Website links</h2>
 https://green-tree-groceries.systems/</br>
 https://backup.green-tree-groceries.systems/
 
