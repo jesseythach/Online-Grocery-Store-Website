@@ -2,6 +2,9 @@
 <h1>Project Summary</h1>
 The purpose of this project was to get familiar with HTML, CSS, Javascript and PHP by creating a dynamic grocery store website.
 
+<h2>Website link</h2>
+https://firgroceries.dynv6.net/</br>
+
 <hr>
 
 <h1>Frontstore</h1>
@@ -35,10 +38,7 @@ The user list allows the user to see all the accounts created by customers, and 
 Username: admin</br>
 Password: admin
 
-<h2>Website links</h2>
-https://firgroceries.dynv6.net/</br>
-https://backup.green-tree-groceries.systems/
-
 
 <h2>Team Members</h2>
-Made by Michaël Gugliandolo, Jean-Nicolas Sabatini & Jessey Thach.
+Made by Michaël Gugliandolo, Jean-Nicolas Sabatini, Jessey Thach & Augusto Mota Pinheiro.<br/>
+<em>Hosted by <a href="https://augustopinheiro.ca/">AMP Studios</a></em>
